@@ -12,6 +12,6 @@ class HelloWorld
 	System.out.println("Fourth Goes a Charm");
 	System.out.println("5th go hey ho");
 	System.out.println("6th time is a crime");
-	system.out.println("7th time now bliventh time");
+	System.out.println("7th time now bliventh time");
     } 
 }
